@@ -6,7 +6,7 @@
 /* header */
 header {
     width: calc(1180 / 1440 * 100%);
-    margin: 0 auto;
+    margin: auto;
     padding: 6px 0;
     display: flex;
     justify-content: space-between;

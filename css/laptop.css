@@ -14,16 +14,22 @@
     .section2 {
         width: calc(840 / 1025 * 100%);
     }
+
     .section2_last_article {
         display: none;
     }
+
     /* section3 */
     .section3 {
         width: calc(840 / 1025 * 100%);
         flex-wrap: wrap;
         row-gap: 20px;
-
     }
+
+    .section3_article {
+        width: 100%;
+    }
+
     .section3_img {
         width: 100%;
     }
