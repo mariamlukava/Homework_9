@@ -33,6 +33,9 @@
     .section3_img {
         width: 100%;
     }
+    .section3_text {
+        margin-bottom: 48px;
+    }
 
 
 }
