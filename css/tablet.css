@@ -1,0 +1,31 @@
+@media (max-width: 835px) {
+
+    /* header */
+    header {
+        width: calc(700 / 835 *100%);
+    }
+
+    /* setion1 */
+    .section1 {
+        padding-inline: 67px;
+    }
+
+    /* section2 */
+    .section2 {
+        width: calc(700 / 835 * 100%);
+    }
+
+    .section2_last_article {
+        display: none;
+    }
+
+    /* section3 */
+    .section3 {
+        width: calc(700 / 835 * 100%);
+        flex-wrap: wrap;
+        row-gap: 44px;
+    }
+    .section3_img {
+        width: 100%;
+    }
+}
